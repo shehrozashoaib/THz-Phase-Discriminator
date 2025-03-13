@@ -56,6 +56,8 @@ Two approaches are visualized:
 1. **Discrete \( n \) values (-3 to 3)**: Showing discrete behavior of \( V_{\text{out}} \).
 2. **Continuous \( x = n\phi \) from 0 to \( 2\pi \)**: Providing a smooth visualization of how \( V_{\text{out}} \) varies with phase.
 
+![Phase Diagram](pi_2_system.png)
+
 📌 **MATLAB Implementation:**
 - **Extract \( \delta\theta \) and \( A B k \) using measured data.**
 - **Compute \( V_{\text{out}} \) for discrete \( n \) values.**
